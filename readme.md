@@ -1,18 +1,26 @@
-My Home
-Path Menu
+# Journey Around the World
 
-Fork
-Get Unstuck
-Tools
+This project showcases the photography work of Jared Morgan, an avid traveler and photographer. The website features a gallery of stunning photos, information about Jared, and a contact form for potential clients.
 
-Learn Color Theory: Journey Around the WorldBrief
-Objective
-IMPROVED STYLING WITH CSS
-Journey Around the World
-In this project, you will use the knowledge you gained on color theory and apply it to a simple web page. You will take an existing grayscale website, select a color scheme, and apply the colors to various elements and sections within the design.
+## Project Overview
 
-This means you will need to consider how to select your color scheme, adhere to proper contrast of elements, and carefully apply those colors to the page to create an elegant design.
+The webpage includes:
 
-Remember, it’s important to use the color wheel tool to determine your color scheme and properly pair colors together. When applying colors to the page, make sure you select a dominant color with additional supporting colors that provide structure to the design.
+- A hero section with a title, description, and call-to-action button.
+- A photo grid displaying Jared's photography work.
+- A blockquote section with a testimonial.
+- An "About Me" section with detailed information about Jared.
+- A "Contact Me" section with a form for booking Jared's photography services.
 
-When changing the colors within your code, you can use either hexadecimal, RGB, or HSL values.
+## Features
+
+- **Hero Section:**
+  - A visually appealing introduction with a title, description, and a call-to-action button to view Jared's work.
+- **Photo Grid:**
+  - A grid layout showcasing nine beautiful photos taken by Jared during his travels.
+- **Blockquote:**
+  - A testimonial from a satisfied client praising Jared's photography skills.
+- **About Me:**
+  - A section providing detailed information about Jared, his background, and his passion for photography.
+- **Contact Me:**
+  - A form allowing visitors to get in touch with Jared for photography services, including fields for name, email, phone number, requested date, and a message.
